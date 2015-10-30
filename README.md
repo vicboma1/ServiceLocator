@@ -30,4 +30,8 @@ Servicio2 executado!!!
 
 Get cached! services.Servicio3
 Servicio 3 executado!!!
+
+
+Service Locator violates encapsulation,hides preconditions for proper usage.
+Is an anti-pattern.
 ```
